@@ -28,5 +28,3 @@ escrow_ignore {
 lua54 'yes'
 
 data_file('DLC_ITYP_REQUEST')('stream/jrbTreasure_Chest.ytyp')
-
-dependency '/assetpacks'
